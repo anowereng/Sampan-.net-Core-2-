@@ -1,0 +1,11 @@
+C:\Users\Anwer Ullah\source\repos\Sampan\Sampan\bin\Debug\netcoreapp2.0\Sampan.deps.json
+C:\Users\Anwer Ullah\source\repos\Sampan\Sampan\bin\Debug\netcoreapp2.0\Sampan.runtimeconfig.json
+C:\Users\Anwer Ullah\source\repos\Sampan\Sampan\bin\Debug\netcoreapp2.0\Sampan.runtimeconfig.dev.json
+C:\Users\Anwer Ullah\source\repos\Sampan\Sampan\bin\Debug\netcoreapp2.0\Sampan.dll
+C:\Users\Anwer Ullah\source\repos\Sampan\Sampan\bin\Debug\netcoreapp2.0\Sampan.pdb
+C:\Users\Anwer Ullah\source\repos\Sampan\Sampan\obj\Debug\netcoreapp2.0\Sampan.csprojAssemblyReference.cache
+C:\Users\Anwer Ullah\source\repos\Sampan\Sampan\obj\Debug\netcoreapp2.0\Sampan.csproj.CoreCompileInputs.cache
+C:\Users\Anwer Ullah\source\repos\Sampan\Sampan\obj\Debug\netcoreapp2.0\Sampan.AssemblyInfoInputs.cache
+C:\Users\Anwer Ullah\source\repos\Sampan\Sampan\obj\Debug\netcoreapp2.0\Sampan.AssemblyInfo.cs
+C:\Users\Anwer Ullah\source\repos\Sampan\Sampan\obj\Debug\netcoreapp2.0\Sampan.dll
+C:\Users\Anwer Ullah\source\repos\Sampan\Sampan\obj\Debug\netcoreapp2.0\Sampan.pdb
